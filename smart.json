@@ -1,0 +1,9 @@
+{
+  "name": "font-awesome-less",
+  "description": "Font awesome smart package with less support",
+  "homepage": "https://github.com/lgollut/meteor-font-awesome-less",
+  "author": "Louis Gollut",
+  "version": "0.1.0",
+  "git": "https://github.com/lgollut/meteor-font-awesome-less.git",
+  "packages": {}
+}
